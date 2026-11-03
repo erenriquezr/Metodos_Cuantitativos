@@ -12,6 +12,8 @@ De igual manera se tienen los documentos guía para apoyo de interpretación del
 * DataMap_DigitalSecurityAroundTheWorld.pdf: Diccionario de variables y preguntas del dataset.
 
 # 3. Organización del proyecto
+
+```text
 Metodos_cuantitativos/
 │
 ├── README.md
@@ -25,8 +27,9 @@ Metodos_cuantitativos/
 │   └── SurveyResponses_DigitalSecurityAroundTheWorld.csv
 │
 └── notebook/
-    ├── Fase2_MetodosCuantitativos_Fase2.ipynb
+    ├── Fase2_MetodosCuantitativos.ipynb
     └── README.md
+```
 
 * README.md: Archivo de generalidades sobre el proyecto
 * LICENSE: Archivo con las condiciones de licenciamiento y uso del notebook.
