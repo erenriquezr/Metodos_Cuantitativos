@@ -4,13 +4,14 @@ Repositorio del curso de métodos cuantitativos
 # 1. Descripción del proyecto
 El proyecto presenta el análisis cuantitativo teniendo en cuenta el dataset de respuestas sobre seguridad digital, para ello se ulizan téncias y métodos de análisis estadístico, que permitan identificar y caracterizar factores asociados a la seguridad digital.
 
-# 2. Fuente de información
-El dataset para el desarrollo del proyecto se denomina: SurveyResponses_DigitalSecurityAroundTheWorld.csv y fue entregado como insumo por parte del docente, el cual consta de 12.351 registros y discriminando 248 variables. De igual manera se tienen los documentos guía para apoyo de interpretación del datset que son:
+# 2. Fuentes de información
+* SurveyResponses_DigitalSecurityAroundTheWorld.csv, el cual consta de 12.351 registros y discriminando 248 variables.
 
-Problema-analitico-rector.md: Documento base del problema analítico para orientar el desarrollo del trabajo.
-DataMap_DigitalSecurityAroundTheWorld.pdf: Diccionario de variables y preguntas del dataset.
+De igual manera se tienen los documentos guía para apoyo de interpretación del datset que son:
+* Problema-analitico-rector.md: Documento base del problema analítico para orientar el desarrollo del trabajo.
+* DataMap_DigitalSecurityAroundTheWorld.pdf: Diccionario de variables y preguntas del dataset.
 
-# 3. Organización del repositorio
+# 3. Organización del proyecto
 Metodos_cuantitativos/
 │
 ├── README.md
@@ -19,15 +20,21 @@ Metodos_cuantitativos/
 │
 ├── data/
 │   └── README.md
+│   └── DataMap_DigitalSecurityAroundTheWorld.pdf
+│   └── Problema-analitico-rector.md
+│   └── SurveyResponses_DigitalSecurityAroundTheWorld.csv
 │
-└── notebooks/
-    ├── Analisis_Cuantitativo_Fase2_AdrianaNoguera.ipynb
+└── notebook/
+    ├── Fase2_MetodosCuantitativos_Fase2.ipynb
     └── README.md
-notebooks/: contiene el notebook principal con el desarrollo del análisis.
-data/: contiene las instrucciones y documentación relacionada con los datos.
-requirements.txt: especifica las dependencias y versiones de las librerías.
-LICENSE: establece las condiciones de uso del código.
-4. Instrucciones de ejecución
+
+* README.md: Archivo de generalidades sobre el proyecto
+* LICENSE: Archivo con las condiciones de licenciamiento y uso del notebook.
+* requirements.txt: Especificación de los requisitos a nivel de librerías.
+* notebook/: Carpeta con el notebook del desarrollo del ejercicio.
+* data/: Carpeta con las instrucciones y documentación relacionada con el dataset.
+
+# 4. Instrucciones de ejecución
 Clonar o descargar este repositorio.
 Instalar Python y Jupyter Notebook.
 Instalar las dependencias mediante:
