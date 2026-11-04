@@ -28,6 +28,7 @@ Repositorio científico que integra el análisis exploratorio, inferencial y de 
 * Reiniciar el kernel y ejecutar todas las celdas secuencialmente.
 
 ## Estructura del repositorio
+```text 
 /
 ├── README.md
 ├── requirements.txt
@@ -35,7 +36,7 @@ Repositorio científico que integra el análisis exploratorio, inferencial y de 
 │   └── SurveyResponses_DigitalSecurityAroundTheWorld.csv
 └── notebooks/
     └── analisis_seguridad_digital_ciclo2.ipynb
-
+```
 ## Licencia y autoría
 Código distribuido bajo licencia MIT
 
