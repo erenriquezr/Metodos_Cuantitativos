@@ -24,7 +24,7 @@ Repositorio científico que integra el análisis exploratorio, inferencial y de 
 * Instalar dependencias mediante la instrucción pip install -r requirements.txt
 * Clonar el repositorio.
 * Instalar las dependencias exactas: `pip install -r requirements.txt`
-* Abrir el entorno Jupyter e iniciar el notebook ubicado en `/notebooks/analisis_seguridad_digital_ciclo2.ipynb`.
+* Abrir el entorno Jupyter e iniciar el notebook ubicado en `/notebooks/Fase2Parte2.ipynb`.
 * Reiniciar el kernel y ejecutar todas las celdas secuencialmente.
 
 ## Estructura del repositorio
@@ -35,13 +35,13 @@ Repositorio científico que integra el análisis exploratorio, inferencial y de 
 ├── data/
 │   └── SurveyResponses_DigitalSecurityAroundTheWorld.csv
 └── notebooks/
-    └── analisis_seguridad_digital_ciclo2.ipynb
+    └── Fase2Parte2.ipynb
 ```
 ## Licencia y autoría
 Código distribuido bajo licencia MIT
 
 Autor: Edgar Rodrigo Enríquez Rosero
-Proyecto: Análisis cuantitativo integral – Fase 2
+Proyecto: Métodos cuantitativos – Parte 2
 Entorno: Google Colab/Python – Jupyter Notebook
 Doctorado en T.I - UNAD  2026
 
