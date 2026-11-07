@@ -32,6 +32,7 @@ Repositorio científico que integra el análisis exploratorio, inferencial y de 
 /
 ├── README.md
 ├── requirements.txt
+├── LICENCE.md
 ├── data/
 │   └── SurveyResponses_DigitalSecurityAroundTheWorld.csv
 └── notebooks/
