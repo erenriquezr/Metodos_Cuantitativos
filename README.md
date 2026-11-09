@@ -16,7 +16,7 @@ Repositorio científico que integra el análisis exploratorio, inferencial y de 
 ## Desde Google Colab:
 * Descargar el repositorio.
 * Subir al drive de google el dataset con extensión .csv
-* subir en colab el notebook mediante: Archivo --> Subir cuaderno y escoger el archivo Fase2_MetodosCuantitativos.ipynb
+* subir en colab el notebook mediante: Archivo --> Subir cuaderno y escoger el archivo Fase2_MetodosCuantitativos.ipynb o Fase2Parte2.ipynb
 * Ejecutar el notebook completo
 
 ## Desde entorno local (Linux):
@@ -36,6 +36,7 @@ Repositorio científico que integra el análisis exploratorio, inferencial y de 
 ├── data/
 │   └── SurveyResponses_DigitalSecurityAroundTheWorld.csv
 └── notebooks/
+    ├── Fase2_MetodosCuantitativos.ipynb
     └── Fase2Parte2.ipynb
 ```
 ## Licencia y autoría
@@ -47,7 +48,8 @@ Entorno: Google Colab/Python – Jupyter Notebook
 Doctorado en T.I - UNAD  2026
 
 ## Metodología de análisis
-Teniendo en cuenta el perfil al cual se orienta el proyecto de grado, se escogió la opción 2, relacionada con series temporales, sin embargo el dataset existente no puede ser valorado bajo estas técnicas y por lo tanto  aplicación de tres modelos de clasificación:
+El notebook que contiene la primera parte se denomina Fase2_MetodosCuantitativos.ipynb, en el se ejecutan estadísticas robustas como medidas de tendencia central: Media, Mediana y Moda Medidas de dispersión: Desviación estándar, Rango intercuartílico — IQR, MAD y Forma de las distribuciones como Asimetría y curtosis y en la sección posterior se realiza un análisis de visualización científica con modelos y métodos avanzados para el análisis de datos.  
+Para la segunda parte y teniendo en cuenta el perfil al cual se orienta el proyecto de grado, se escogió la opción 2, relacionada con series temporales, sin embargo para el notebook Fase2Parte2.ipynb el dataset existente no puede ser valorado bajo estas técnicas y por lo tanto se realizó bajo los tres modelos de predicción:
 
 Regresión logística.
 Random Forest.
