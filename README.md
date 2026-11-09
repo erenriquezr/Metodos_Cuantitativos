@@ -43,8 +43,14 @@ Repositorio científico que integra el análisis exploratorio, inferencial y de 
 Código distribuido bajo licencia MIT
 
 Autor: Edgar Rodrigo Enríquez Rosero
+
+
 Proyecto: Métodos cuantitativos – Parte 2
+
+
 Entorno: Google Colab/Python – Jupyter Notebook
+
+
 Doctorado en T.I - UNAD  2026
 
 ## Metodología de análisis
